@@ -58,7 +58,7 @@ import numpy as np
 # cv2.imshow("window", img_crop) #image show krne ke liye lekin woh screen se turant udd jayega
 # cv2.waitKey(0) #induce infinte delay for photo
 
-# apni khud ki image banao rectangle circle line aur text 😍😍😍
+# apni khud ki image banao rectangle circle line aur text
  # img=np.zeros((512,512,3))
 #
 # while True:
